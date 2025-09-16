@@ -30,9 +30,6 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-  <a href="https://spacy.io/" target="_blank"> <img src="https://raw.githubusercontent.com/explosion/spacy-logo/master/img/spacy-logo.svg" alt="spacy" width="40" height="40"/> </a>
-  <a href="https://paddlepaddle.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/23534030?s=200&v=4" alt="paddleocr" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -46,21 +43,11 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+
 </p>
 
 ---
 
-<h3 align="left">Highlighted Projects:</h3>
-
-- 🧾 **AI Invoice Extraction** – OCR + NER + LLM hybrid system with FastAPI & Docker (reduced manual work by 70%)  
-- 📚 **AI Study Helper** – RAG system for PDF-based learning with semantic search + quiz generation  
-- 🔍 **Hybrid Log Classification** – Regex + BERT + LLaMA-3 pipeline for anomaly detection  
-- 🌱 **Plant Disease Detection** – CNN model deployed with FastAPI for real-time classification  
-- ✉️ **Email Phishing Detection** – 98% accuracy NLP classification with ML models  
-- 💻 **QCM Generator App** – Full-stack Angular + Spring Boot app automating quiz creation  
-
----
 
 ✨ I’m passionate about building **intelligent AI systems** and deploying them through **robust full-stack solutions**.  
 Always open to collaboration on **AI/ML research** and **end-to-end application development**.
